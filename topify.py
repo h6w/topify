@@ -8,7 +8,7 @@ values = {}
 
 def usage():
     print <<<EOT
-	topify - take any input stream and turn it into a top-like display
+	topify - take any input stream and turn it into a top-like display.
 
 	Usage: topify [format] 
 EOT
